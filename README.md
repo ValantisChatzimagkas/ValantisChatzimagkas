@@ -42,8 +42,10 @@ Full-stack engineer at **ARC Intelligence**, building product features and agent
 
 **[synaptic-hive](https://github.com/ValantisChatzimagkas/synaptic-hive)**<br><sub>Python · FastAPI · TimescaleDB · Redis Streams</sub><br>Industrial IoT telemetry with a switchable sync/async ingestion path: an at-least-once worker that is idempotent on redelivery.
 
-**[Road-Archiver](https://github.com/ValantisChatzimagkas/Road-Archiver)**<br><sub>Python · FastAPI · PostGIS</sub><br>Versioned road networks: updates never delete, and any network can be queried exactly as it was at a given instant.
+**[brew-room-monitor](https://github.com/ValantisChatzimagkas/brew-room-monitor)**<br><sub>Python · FastAPI · PostgreSQL · Next.js · sensor devices</sub><br>End-to-end monitoring for brewing rooms: devices push readings with hashed, revocable tokens, and a server-rendered Next.js UI consumes types generated from the API's OpenAPI contract.
 
-**[brewing-temperature-monitor](https://github.com/ValantisChatzimagkas/brewing-temperature-monitor-app)**<br><sub>Go · Gin · InfluxDB</sub><br>Time-series API with a strict input grammar instead of injectable query strings, and handlers tested behind a store interface.
+**[mcp-tool-calling-benchmark](https://github.com/ValantisChatzimagkas/mcp-tool-calling-benchmark)**<br><sub>Python · OpenAI-compatible APIs · LLM evaluation</sub><br>Measures how reliably models call MCP-style tools, with replicated runs, Wilson intervals and an explicit statement of what it does not test.
+
+**[Road-Archiver](https://github.com/ValantisChatzimagkas/Road-Archiver)**<br><sub>Python · FastAPI · PostGIS</sub><br>Versioned road networks: updates never delete, and any network can be queried exactly as it was at a given instant.
 
 My day-to-day work is in private repositories; these are smaller projects where I work through ideas in the open.
