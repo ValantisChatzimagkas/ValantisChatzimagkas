@@ -5,7 +5,7 @@
 
 **Dossenheim, Germany** · [LinkedIn](https://www.linkedin.com/in/valantischatzimagkas)
 
-I build data-heavy products end to end, from ingestion and APIs to the UI that people use. Across 6+ years that has meant industrial IoT and data pipelines, production geospatial systems, and now a multi-tenant finance SaaS with LLM agents built in. MSc in Informatics Engineering.
+I build data-heavy products end to end, from ingestion and APIs to the UI that people use. Across 6+ years that has meant industrial IoT middleware, data pipelines and ETL, and now a multi-tenant finance SaaS with LLM agents built in. MSc in Informatics Engineering.
 
 ### Now: ARC Intelligence (2026–)
 
@@ -17,7 +17,7 @@ Multi-tenant B2B finance platform on Django REST, Next.js and AWS.
 
 ### Before
 
-- **KISTERS** (2025–26): refactored and migrated production geospatial pipelines; integrated new weather-forecast models behind a single trigger flow.
+- **KISTERS** (2025–26): worked on the in-house ETL framework, refactoring existing pipelines, integrating forecasting models and writing integration tests for the framework.
 - **Future Intelligence** (2020–25)
   - Data pipelines in Prefect that compute metrics and KPIs and feed decision-support systems.
   - Features for the company's data platform.
