@@ -17,7 +17,7 @@ Python (Django, FastAPI) · TypeScript (React, Next.js) · Go · PostgreSQL / Po
 
 | Project | Summary |
 |---|---|
-| [synaptic-hive](https://github.com/ValantisChatzimagkas/synaptic-hive) | Multi-tenant industrial IoT monitoring: TimescaleDB hypertables, sync and Redis Streams ingestion paths, Next.js dashboard |
+| [synaptic-hive](https://github.com/ValantisChatzimagkas/synaptic-hive) | Multi-tenant industrial IoT monitoring API: TimescaleDB hypertables, sync and Redis Streams ingestion paths |
 | [Road-Archiver](https://github.com/ValantisChatzimagkas/Road-Archiver) | Versioned GeoJSON road networks on PostGIS with point-in-time queries, JWT/RBAC and a Dockerised integration test suite |
 | [brewing-temperature-monitor-app](https://github.com/ValantisChatzimagkas/brewing-temperature-monitor-app) | Go + InfluxDB service for logging and aggregating fermentation-room telemetry |
 
