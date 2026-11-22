@@ -1,6 +1,9 @@
-# Valantis Chatzimagkas
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Valantis Chatzimagkas, full-stack engineer" src="assets/banner-light.svg" width="100%">
+</picture>
 
-**Full-stack engineer** · Dossenheim, Germany · [LinkedIn](https://www.linkedin.com/in/valantischatzimagkas)
+**Dossenheim, Germany** · [LinkedIn](https://www.linkedin.com/in/valantischatzimagkas)
 
 I build data-heavy products end to end, from ingestion and APIs to the UI that people use. Across 6+ years that has meant IoT platforms and EU research projects, production geospatial pipelines, and now a multi-tenant finance SaaS with LLM agents built in. MSc in Informatics Engineering.
 
