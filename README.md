@@ -1,6 +1,6 @@
 ### Valantis Chatzimagkas
 
-Full-stack engineer with 6+ years building data-driven products, from IoT and geospatial pipelines to multi-tenant SaaS. Based near Heidelberg, Germany; currently at **ARC Intelligence**, shipping a B2B finance platform across Django REST, Next.js and AWS, with a focus on LLM agents and integrations.
+Full-stack engineer with 6+ years building data-driven products, from IoT and geospatial pipelines to multi-tenant SaaS. Based in Dossenheim, Germany; currently at **ARC Intelligence**, shipping a B2B finance platform across Django REST, Next.js and AWS, with a focus on LLM agents and integrations.
 
 **What I work on**
 
