@@ -1,26 +1,35 @@
-### Valantis Chatzimagkas
+# Valantis Chatzimagkas
 
-Full-stack engineer with 6+ years building data-driven products, from IoT and geospatial pipelines to multi-tenant SaaS. Based in Dossenheim, Germany; currently at **ARC Intelligence**, shipping a B2B finance platform across Django REST, Next.js and AWS, with a focus on LLM agents and integrations.
+**Full-stack engineer** · Dossenheim, Germany · [LinkedIn](https://www.linkedin.com/in/valantischatzimagkas)
 
-**What I work on**
+I build data-heavy products end to end, from ingestion and APIs to the UI that people use. Over 6+ years that has meant IoT platforms and EU research projects, production geospatial pipelines, and now a multi-tenant finance SaaS with LLM agents built in. MSc in Informatics Engineering.
 
-- **Product engineering on multi-tenant SaaS:** tenant provisioning and user management, OAuth integrations with accounting platforms, permission-aware APIs
-- **LLM agents in production:** prompt architecture, agent tools scoped by user permissions, eval-guided iteration for safer prompt changes
-- **Developer experience and release safety:** OpenAPI codegen shared between backend and frontend, CI contract-drift checks, reproducible dev data
-- **Data and IoT systems:** geospatial pipelines, weather-forecast model integration, time-series telemetry; 4+ years of EU research projects in Industry 4.0, smart agriculture and circular economy
+### Now: ARC Intelligence (2026–)
 
-**Stack**
+Multi-tenant B2B finance platform on Django REST, Next.js and AWS.
 
-Python (Django, FastAPI) · TypeScript (React, Next.js) · Go · PostgreSQL / PostGIS / TimescaleDB · Redis · AWS · Docker · GitHub Actions · OpenAI SDK
+- Delivered tenant user management end to end (invites, resends, provisioning), replacing manual ops workflows.
+- Built an OAuth integration with accounting platforms that validates permissions before connecting, so a link is only created when the user actually has access.
+- Own LLM agent improvements for data analysis and dashboards: simplified the prompt architecture, exposed reporting data through permission-aware read-only agent tools, and introduced eval-guided iteration so prompt changes ship safely.
+- Improved release safety: shared OpenAPI → RTK Query codegen, CI checks for API contract drift, and reproducible dev data from production-compatible snapshots.
 
-**Side projects**
+### Before
 
-| Project | Summary |
+| | |
 |---|---|
-| [synaptic-hive](https://github.com/ValantisChatzimagkas/synaptic-hive) | Multi-tenant industrial IoT monitoring API: TimescaleDB hypertables, sync and Redis Streams ingestion paths |
-| [Road-Archiver](https://github.com/ValantisChatzimagkas/Road-Archiver) | Versioned GeoJSON road networks on PostGIS with point-in-time queries, JWT/RBAC and a Dockerised integration test suite |
-| [brewing-temperature-monitor-app](https://github.com/ValantisChatzimagkas/brewing-temperature-monitor-app) | Go + InfluxDB service for logging and aggregating fermentation-room telemetry |
+| **KISTERS** · 2025–26 | Refactored and migrated production geospatial pipelines; integrated new weather-forecast models behind a single trigger flow. |
+| **Future Intelligence** · 2020–25 | Data-platform services and R&D for IoT, Industry 4.0, smart agriculture and circular economy; led and coordinated tasks within EU research projects. |
 
-Most of my professional work lives in private repositories; the projects above are where I explore ideas in the open.
+### Toolbox
 
-**Elsewhere:** [LinkedIn](https://www.linkedin.com/in/valantischatzimagkas)
+**Backend:** Python (Django REST, FastAPI, SQLAlchemy), Go · **Frontend:** TypeScript, React, Next.js · **Data:** PostgreSQL, PostGIS, TimescaleDB, InfluxDB, Redis, MongoDB · **AI:** OpenAI SDK, agent tooling, evals · **Infra:** AWS, Docker, GitHub Actions
+
+### Selected projects
+
+| Project | The interesting part |
+|---|---|
+| [synaptic-hive](https://github.com/ValantisChatzimagkas/synaptic-hive) | Industrial IoT telemetry on TimescaleDB with a switchable sync/async ingestion path: an at-least-once Redis Streams worker that is idempotent on redelivery. |
+| [Road-Archiver](https://github.com/ValantisChatzimagkas/Road-Archiver) | Versioned road networks on PostGIS: updates never delete, and any network can be queried exactly as it was at a given instant. |
+| [brewing-temperature-monitor-app](https://github.com/ValantisChatzimagkas/brewing-temperature-monitor-app) | Go time-series API on InfluxDB: strict input grammar instead of injectable query strings, with handlers tested behind a store interface. |
+
+My day-to-day work is in private repositories; these are smaller projects where I work through ideas in the open.
