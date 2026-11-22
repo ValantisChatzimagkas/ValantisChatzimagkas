@@ -2,7 +2,7 @@
 
 **Full-stack engineer** · Dossenheim, Germany · [LinkedIn](https://www.linkedin.com/in/valantischatzimagkas)
 
-I build data-heavy products end to end, from ingestion and APIs to the UI that people use. Over 6+ years that has meant IoT platforms and EU research projects, production geospatial pipelines, and now a multi-tenant finance SaaS with LLM agents built in. MSc in Informatics Engineering.
+I build data-heavy products end to end, from ingestion and APIs to the UI that people use. Across 6+ years that has meant IoT platforms and EU research projects, production geospatial pipelines, and now a multi-tenant finance SaaS with LLM agents built in. MSc in Informatics Engineering.
 
 ### Now: ARC Intelligence (2026–)
 
@@ -15,14 +15,16 @@ Multi-tenant B2B finance platform on Django REST, Next.js and AWS.
 
 ### Before
 
-| | |
-|---|---|
-| **KISTERS** · 2025–26 | Refactored and migrated production geospatial pipelines; integrated new weather-forecast models behind a single trigger flow. |
-| **Future Intelligence** · 2020–25 | Data-platform services and R&D for IoT, Industry 4.0, smart agriculture and circular economy; led and coordinated tasks within EU research projects. |
+- **KISTERS** (2025–26): refactored and migrated production geospatial pipelines; integrated new weather-forecast models behind a single trigger flow.
+- **Future Intelligence** (2020–25): data-platform services and R&D for IoT, Industry 4.0, smart agriculture and circular economy; led and coordinated tasks within EU research projects.
 
 ### Toolbox
 
-**Backend:** Python (Django REST, FastAPI, SQLAlchemy), Go · **Frontend:** TypeScript, React, Next.js · **Data:** PostgreSQL, PostGIS, TimescaleDB, InfluxDB, Redis, MongoDB · **AI:** OpenAI SDK, agent tooling, evals · **Infra:** AWS, Docker, GitHub Actions
+- **Backend:** Python (Django REST, FastAPI, SQLAlchemy), Go
+- **Frontend:** TypeScript, React, Next.js
+- **Data:** PostgreSQL, PostGIS, TimescaleDB, InfluxDB, Redis, MongoDB
+- **AI:** OpenAI SDK, agent tooling, evals
+- **Infra:** AWS, Docker, GitHub Actions
 
 ### Selected projects
 
