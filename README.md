@@ -1,18 +1,26 @@
-# Hi, I'm Valantis 👋
+### Valantis Chatzimagkas
 
-Software engineer based in Athens, Greece. I build backend systems and data-heavy APIs, mostly in **Python** and **Go**, with a soft spot for **IoT** and time-series data.
+Full-stack engineer with 6+ years building data-driven products, from IoT and geospatial pipelines to multi-tenant SaaS. Currently at **ARC Intelligence** in Germany, shipping a B2B finance platform across Django REST, Next.js and AWS, with a focus on LLM agents and integrations.
 
-**Day-to-day stack:** Python (FastAPI, SQLAlchemy, pytest) · Go (Gin) · PostgreSQL / PostGIS / TimescaleDB · InfluxDB · Redis · MongoDB · Docker · GitHub Actions · React + TypeScript
+**What I work on**
 
-## Featured projects
+- **Product engineering on multi-tenant SaaS:** tenant provisioning and user management, OAuth integrations with accounting platforms, permission-aware APIs
+- **LLM agents in production:** prompt architecture, agent tools scoped by user permissions, eval-guided iteration for safer prompt changes
+- **Developer experience and release safety:** OpenAPI codegen shared between backend and frontend, CI contract-drift checks, reproducible dev data
+- **Data and IoT systems:** geospatial pipelines, weather-forecast model integration, time-series telemetry; 4+ years of EU research projects in Industry 4.0, smart agriculture and circular economy
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**synaptic-hive**](https://github.com/ValantisChatzimagkas/synaptic-hive) | Multi-tenant industrial IoT monitoring platform with sync and async (Redis Streams) telemetry ingestion | FastAPI · TimescaleDB · Redis · Next.js |
-| [**Road-Archiver**](https://github.com/ValantisChatzimagkas/Road-Archiver) | Versioned road-network API: upload GeoJSON, update without losing history, query any point in time | FastAPI · PostGIS · JWT/RBAC · Docker |
-| [**brewing-temperature-monitor-app**](https://github.com/ValantisChatzimagkas/brewing-temperature-monitor-app) | API for logging and aggregating temperature data from fermentation spaces | Go · Gin · InfluxDB |
-| [**smart-fridge-app**](https://github.com/ValantisChatzimagkas/smart-fridge-app) | Barcode-based fridge inventory to reduce food waste | React · TypeScript · FastAPI · MongoDB |
+**Stack**
 
-## Currently
+Python (Django, FastAPI) · TypeScript (React, Next.js) · Go · PostgreSQL / PostGIS / TimescaleDB · Redis · AWS · Docker · GitHub Actions · OpenAI SDK
 
-- Exploring MLOps: [MLOps Zoomcamp coursework](https://github.com/ValantisChatzimagkas/mlops-zoomcamp)
+**Side projects**
+
+| Project | Summary |
+|---|---|
+| [synaptic-hive](https://github.com/ValantisChatzimagkas/synaptic-hive) | Multi-tenant industrial IoT monitoring: TimescaleDB hypertables, sync and Redis Streams ingestion paths, Next.js dashboard |
+| [Road-Archiver](https://github.com/ValantisChatzimagkas/Road-Archiver) | Versioned GeoJSON road networks on PostGIS with point-in-time queries, JWT/RBAC and a Dockerised integration test suite |
+| [brewing-temperature-monitor-app](https://github.com/ValantisChatzimagkas/brewing-temperature-monitor-app) | Go + InfluxDB service for logging and aggregating fermentation-room telemetry |
+
+Most of my professional work lives in private repositories; the projects above are where I explore ideas in the open.
+
+**Elsewhere:** [LinkedIn](https://www.linkedin.com/in/valantischatzimagkas)
