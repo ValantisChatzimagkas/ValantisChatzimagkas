@@ -40,10 +40,10 @@ Full-stack engineer at **ARC Intelligence**, building product features and agent
 
 ### Selected projects
 
-| Project | The interesting part |
-|---|---|
-| [synaptic-hive](https://github.com/ValantisChatzimagkas/synaptic-hive) | Industrial IoT telemetry on TimescaleDB with a switchable sync/async ingestion path: an at-least-once Redis Streams worker that is idempotent on redelivery. |
-| [Road-Archiver](https://github.com/ValantisChatzimagkas/Road-Archiver) | Versioned road networks on PostGIS: updates never delete, and any network can be queried exactly as it was at a given instant. |
-| [brewing-temperature-monitor-app](https://github.com/ValantisChatzimagkas/brewing-temperature-monitor-app) | Go time-series API on InfluxDB: strict input grammar instead of injectable query strings, with handlers tested behind a store interface. |
+**[synaptic-hive](https://github.com/ValantisChatzimagkas/synaptic-hive)**<br><sub>Python · FastAPI · TimescaleDB · Redis Streams</sub><br>Industrial IoT telemetry with a switchable sync/async ingestion path: an at-least-once worker that is idempotent on redelivery.
+
+**[Road-Archiver](https://github.com/ValantisChatzimagkas/Road-Archiver)**<br><sub>Python · FastAPI · PostGIS</sub><br>Versioned road networks: updates never delete, and any network can be queried exactly as it was at a given instant.
+
+**[brewing-temperature-monitor](https://github.com/ValantisChatzimagkas/brewing-temperature-monitor-app)**<br><sub>Go · Gin · InfluxDB</sub><br>Time-series API with a strict input grammar instead of injectable query strings, and handlers tested behind a store interface.
 
 My day-to-day work is in private repositories; these are smaller projects where I work through ideas in the open.
