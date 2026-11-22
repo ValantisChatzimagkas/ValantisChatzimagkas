@@ -12,7 +12,6 @@ I build data-heavy products end to end, from ingestion and APIs to the UI that p
 Multi-tenant B2B finance platform on Django REST, Next.js and AWS.
 
 - Delivered tenant user management end to end (invites, resends, provisioning), replacing manual ops workflows.
-- Built an OAuth integration with accounting platforms that validates permissions before connecting, so a link is only created when the user actually has access.
 - Own LLM agent improvements for data analysis and dashboards: simplified the prompt architecture, exposed reporting data through permission-aware read-only agent tools, and introduced eval-guided iteration so prompt changes ship safely.
 - Improved release safety: shared OpenAPI → RTK Query codegen, CI checks for API contract drift, and reproducible dev data from production-compatible snapshots.
 
